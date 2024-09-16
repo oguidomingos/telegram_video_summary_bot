@@ -1,0 +1,5 @@
+# requirements.txt
+telethon
+moviepy
+git+https://github.com/openai/whisper.git
+autogen
